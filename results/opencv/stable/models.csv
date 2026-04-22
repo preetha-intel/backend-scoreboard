@@ -1,0 +1,11 @@
+Model,None
+bvlc_alexnet,8/9 nodes covered: Failed!
+densenet121,9/11 nodes covered: Failed!
+inception_v1,10/11 nodes covered: Failed!
+inception_v2,11/13 nodes covered: Failed!
+resnet50,7/10 nodes covered: Failed!
+shufflenet,9/12 nodes covered: Failed!
+squeezenet_old,7/8 nodes covered: Failed!
+vgg19,7/8 nodes covered: Failed!
+zfnet512,7/8 nodes covered: Failed!
+Summary,0/9 model tests passed
