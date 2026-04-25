@@ -1,5 +1,5 @@
 {
-    "date": "04/24/2026 02:10:44",
+    "date": "04/25/2026 02:07:55",
     "failed": [
         "OnnxBackendNodeModelTest::test_averagepool_2d_ceil_last_window_starts_on_pad_cpu",
         "OnnxBackendNodeModelTest::test_batchnorm_epsilon_training_mode_cpu",
