@@ -1,5 +1,5 @@
 {
-    "date": "06/14/2026 02:37:05",
+    "date": "06/15/2026 02:41:31",
     "failed": [
         "OnnxBackendNodeModelTest::test_acos_cpu",
         "OnnxBackendNodeModelTest::test_acos_example_cpu",
