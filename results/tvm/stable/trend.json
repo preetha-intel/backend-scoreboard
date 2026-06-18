@@ -49,5 +49,22 @@
                 "version": "1.18.0"
             }
         ]
+    },
+    {
+        "date": "06/18/2026 02:55:32",
+        "failed": 0,
+        "passed": 0,
+        "skipped": 1599,
+        "total_ops": 196,
+        "versions": [
+            {
+                "name": "apache-tvm",
+                "version": "0.25.0rc1"
+            },
+            {
+                "name": "onnx",
+                "version": "1.18.0"
+            }
+        ]
     }
 ]
