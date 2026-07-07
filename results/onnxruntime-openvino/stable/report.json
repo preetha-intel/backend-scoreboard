@@ -1,5 +1,5 @@
 {
-    "date": "07/06/2026 02:07:54",
+    "date": "07/07/2026 02:02:44",
     "failed": [
         "OnnxBackendNodeModelTest::test_adagrad_cpu",
         "OnnxBackendNodeModelTest::test_adagrad_multiple_cpu",
@@ -324,6 +324,7 @@
         "OnnxBackendNodeModelTest::test_dynamicquantizelinear_max_adjusted_expanded_cpu",
         "OnnxBackendNodeModelTest::test_dynamicquantizelinear_min_adjusted_expanded_cpu",
         "OnnxBackendNodeModelTest::test_edge_pad_cpu",
+        "OnnxBackendNodeModelTest::test_elu_default_expanded_ver18_cpu",
         "OnnxBackendNodeModelTest::test_flatten_axis0_cpu",
         "OnnxBackendNodeModelTest::test_flatten_axis1_cpu",
         "OnnxBackendNodeModelTest::test_flatten_axis2_cpu",
@@ -560,6 +561,7 @@
         "OnnxBackendPyTorchOperatorModelTest::test_operator_add_size1_singleton_broadcast_cpu",
         "OnnxBackendPyTorchOperatorModelTest::test_operator_addconstant_cpu",
         "OnnxBackendPyTorchOperatorModelTest::test_operator_non_float_params_cpu",
+        "OnnxBackendRealModelTest::test_squeezenet_cpu",
         "OnnxBackendSimpleModelTest::test_gradient_of_add_and_mul_cpu",
         "OnnxBackendSimpleModelTest::test_gradient_of_add_cpu"
     ],
@@ -861,7 +863,6 @@
         "OnnxBackendNodeModelTest::test_einsum_transpose_cpu",
         "OnnxBackendNodeModelTest::test_elu_cpu",
         "OnnxBackendNodeModelTest::test_elu_default_cpu",
-        "OnnxBackendNodeModelTest::test_elu_default_expanded_ver18_cpu",
         "OnnxBackendNodeModelTest::test_elu_example_cpu",
         "OnnxBackendNodeModelTest::test_elu_example_expanded_ver18_cpu",
         "OnnxBackendNodeModelTest::test_elu_expanded_ver18_cpu",
@@ -1831,7 +1832,6 @@
         "OnnxBackendRealModelTest::test_inception_v2_cpu",
         "OnnxBackendRealModelTest::test_resnet50_cpu",
         "OnnxBackendRealModelTest::test_shufflenet_cpu",
-        "OnnxBackendRealModelTest::test_squeezenet_cpu",
         "OnnxBackendRealModelTest::test_vgg19_cpu",
         "OnnxBackendRealModelTest::test_zfnet512_cpu",
         "OnnxBackendSimpleModelTest::test_expand_shape_model1_cpu",
